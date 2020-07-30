@@ -1,4 +1,4 @@
-# star-wars
+# Star Wars
 Java/React
 
 
