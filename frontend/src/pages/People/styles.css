@@ -1,0 +1,25 @@
+h1{
+    color: #343a40
+}
+
+.btn-people{
+    width: 50%!important;
+}
+
+.card-info-people{
+    background-color: #ffc107;
+    border-radius: .25rem;
+    color: black;
+    padding: 15px;
+}
+
+.info-people > img{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.row-list{
+    margin-top: -7em;
+    min-height: 35em;
+}

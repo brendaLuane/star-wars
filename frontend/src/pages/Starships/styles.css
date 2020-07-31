@@ -1,0 +1,80 @@
+.btn-back {
+    position: absolute;
+    top: 5px;
+    color: #ffc500;
+    font-weight: 500;
+}
+
+h1 {
+    color: #343a40
+}
+
+.btn-starship {
+    width: 55%!important;
+}
+
+.card-info-starship {
+    background-color: #ffc107;
+    border-radius: .25rem;
+    color: black;
+    padding: 15px;
+}
+
+.info-starship>img {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.row-list {
+    margin-top: -7em;
+    min-height: 35em;
+}
+
+form {
+    width: 45%;
+}
+
+.form-stops {
+    display: inline-flex;
+}
+
+input {
+    border: 0;
+    border-bottom: 1.2px solid #5d5555;
+    outline: none;
+    transition: 0.2s ease-in-out;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: white;
+}
+
+label {
+    top: 0;
+    left: 0;
+    right: 0;
+    color: gray;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    font-size: 1rem;
+    cursor: text;
+    transition: 0.2s ease-in-out;
+    box-sizing: border-box;
+}
+
+input, label {
+    width: 100%;
+    height: 3rem;
+    font-size: 1rem;
+}
+
+.row-list-stops {
+    margin-top: -4em;
+    min-height: 32em;
+}
+
+.table-stops-result {
+    max-height: 445px;
+    overflow-y: auto;
+}
